@@ -36,8 +36,9 @@ body {
     border-radius: 12px;
 }
 
-.container h2  {
+.container h1  {
     color: var(--darkBlue);
+    font-size: 1.7em;
     text-align: center;
     margin: 20px 10px 20px 10px;
 }
@@ -50,9 +51,8 @@ body {
 }
 
 .attribution {  
-    position: absolute;
+    position: fixed;
     bottom: 0;
-    margin-bottom: 1rem;
 }
 
 .attribution a {
